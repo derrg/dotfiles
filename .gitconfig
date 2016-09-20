@@ -180,3 +180,6 @@
 [url "git://gist.github.com/"]
 
 	insteadOf = "gist:"
+[user]
+	name="Ken Van Dalsum"
+	email="kenvandalsum@gmail.com"
